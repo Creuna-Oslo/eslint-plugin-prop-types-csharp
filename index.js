@@ -1,0 +1,1 @@
+module.exports = require("@creuna/prop-types-csharp/eslint-plugin");

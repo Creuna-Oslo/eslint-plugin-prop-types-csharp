@@ -1,0 +1,28 @@
+{
+  "name": "@creuna/eslint-plugin-prop-types-csharp",
+  "version": "0.1.0",
+  "description": "Proxy for @creuna/prop-types-csharp/eslint-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creuna-Oslo/eslint-plugin-prop-types-csharp.git"
+  },
+  "keywords": [
+    "prop-types",
+    "csharp",
+    "eslint",
+    "plugin"
+  ],
+  "author": "Asbjørn Hegdahl <asbjorn.hegdahl@creuna.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Creuna-Oslo/eslint-plugin-prop-types-csharp/issues"
+  },
+  "homepage": "https://github.com/Creuna-Oslo/eslint-plugin-prop-types-csharp#readme",
+  "dependencies": {
+    "@creuna/prop-types-csharp": "*"
+  }
+}
