@@ -1,6 +1,6 @@
 {
   "name": "@creuna/eslint-plugin-prop-types-csharp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Proxy for @creuna/prop-types-csharp/eslint-plugin",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/Creuna-Oslo/eslint-plugin-prop-types-csharp/issues"
   },
   "homepage": "https://github.com/Creuna-Oslo/eslint-plugin-prop-types-csharp#readme",
-  "dependencies": {
+  "peerDependencies": {
     "@creuna/prop-types-csharp": "*"
   }
 }
